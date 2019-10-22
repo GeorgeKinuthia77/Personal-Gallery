@@ -30,8 +30,21 @@ As a user I would like:
 * pip install pillow
 * psql
 
------------------------------------------------------
+
 ## Cloning
 * In your terminal:
 
         $ git clone https://github.com/GeorgeKinuthia77/Personal-Gallery
+
+## Technologies Used
+        * [Python3.6](https://www.python.org/)
+        * [Django]
+        * [Heroku](https://heroku.com)
+
+
+## Contributions
+
+        - Git clone
+        - Make the changes.
+        - Write your tests on `tests/`
+        - If everything is OK. push your changes and make a pull request.
