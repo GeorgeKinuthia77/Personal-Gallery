@@ -11,13 +11,13 @@ class Migration(migrations.Migration):
     dependencies = [
     ]
 
-    operations = [
-        migrations.CreateModel(
-            name='Category',
-            fields=[
-                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(max_length=30)),
-            ],
+    # operations = [
+    #     migrations.CreateModel(
+    #         name='Category',
+    #         fields=[
+    #             ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
+    #             ('name', models.CharField(max_length=30)),
+    #         ],
         ),
         migrations.CreateModel(
             name='Location',
