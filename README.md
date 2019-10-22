@@ -12,7 +12,7 @@ This is a personal gallery application that displays photos for others to see. T
 
 Github link:https://github.com/GeorgeKinuthia77/Personal-Gallery
 
-Live link:
+Live link:https://picturepatch.herokuapp.com/
 
 ## User Stories
 These are the behaviors/features that the application implements for use by a user.
