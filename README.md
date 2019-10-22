@@ -24,3 +24,14 @@ As a user I would like:
 * Search for different categories of photos. (ie. Travel, Food)
 * Copy a link to the photo to share with my friends.
 * View photos based on the location they were taken.
+
+## Prerequisites
+* python3.6
+* pip install pillow
+* psql
+
+-----------------------------------------------------
+## Cloning
+* In your terminal:
+
+        $ git clone https://github.com/GeorgeKinuthia77/Personal-Gallery
